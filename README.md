@@ -1,0 +1,1 @@
+# azure-localicar-servicos-por-categoria
